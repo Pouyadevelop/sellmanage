@@ -1,0 +1,1 @@
+mssql+pyodbc://manage:1234@./Management?driver=ODBC+Driver+17+for+SQL+Server
